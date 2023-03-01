@@ -104,6 +104,12 @@ button {
 .Info {
     flex-direction: column;
 }
+.info-title {
+    font-size: 32px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
 .info-content {
     display: flex;
     justify-content: center;
