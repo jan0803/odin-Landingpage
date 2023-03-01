@@ -43,3 +43,10 @@ a {
     text-decoration: none;
     color: #E5E7EB;
 }
+
+.section {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
