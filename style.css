@@ -141,3 +141,9 @@ button {
     height: 60vh;
     background-color: #E5E7EB;
 }
+
+.quote-main-text {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 100;
+}
