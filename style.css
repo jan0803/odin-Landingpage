@@ -52,7 +52,10 @@ a {
 }
 
 .Hero {
-    background-color: #1F2937;
+    background-image: url(./images/travel-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0;
     padding: 0 20vw;
     gap: 48px;
 }
@@ -84,7 +87,7 @@ a {
 }
 
 .hero-image {
-    
+
 }
 
 button {
