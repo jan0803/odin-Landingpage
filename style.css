@@ -19,6 +19,7 @@ header {
     align-items: stretch;
     padding: 0 20vw;
     background-color: #1F2937;
+    height: 8vh;
 }
 
 ul {
