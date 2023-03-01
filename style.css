@@ -101,3 +101,6 @@ button {
     color: #F9FAF8;
     background-color: #3882F6;
 }
+.Info {
+    flex-direction: column;
+}
