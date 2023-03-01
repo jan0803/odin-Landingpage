@@ -159,3 +159,11 @@ button {
     font-weight: 900;
     margin-left: auto;
 }
+
+.action-card {
+    width: 60vw;
+    box-sizing: border-box;
+    padding: 5vh 10vw;
+    border-radius: 16px;
+    background-color: #3882F6;
+}
