@@ -166,4 +166,11 @@ button {
     padding: 5vh 10vw;
     border-radius: 16px;
     background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.action-card-text {
+    color: #F9FAF8;
 }
