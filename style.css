@@ -104,6 +104,7 @@ button {
 
 .Info {
     flex-direction: column;
+    gap: 48px;
 }
 
 .info-title {
@@ -125,4 +126,13 @@ button {
 }
 .info-content-item {
     width: 250px;
+}
+
+.info-frame {
+    width: 250px;
+    height: 250px;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 25%;
+    border-color: #3882F6;
 }
