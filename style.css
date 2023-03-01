@@ -104,3 +104,12 @@ button {
 .Info {
     flex-direction: column;
 }
+.info-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+.info-content-item {
+    width: 250px;
+}
