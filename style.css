@@ -142,8 +142,20 @@ button {
     background-color: #E5E7EB;
 }
 
+.quote-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
 .quote-main-text {
     font-size: 32px;
     font-style: italic;
     font-weight: 100;
+}
+
+.quote-author-text {
+    font-size: 18px;
+    font-weight: 900;
+    margin-left: auto;
 }
